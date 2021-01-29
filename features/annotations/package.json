@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/faker": "^5.1.5",
+    "faker": "^5.2.0"
+  }
+}
